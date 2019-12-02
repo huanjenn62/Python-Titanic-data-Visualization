@@ -1,2 +1,2 @@
 # Python-Titanic-data-Visualization
-learning
+learning github project as well as python titanic data visualization
